@@ -71,6 +71,6 @@ https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=gith
 <img src="https://github-readme-stats.vercel.app/api?username=giteshdang&show_icons=true&theme=r… alt="GitHub Stats"/>
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=giteshdang&theme=radical" alt="Streak Stats" />
-https://github-readme-stats.vercel.app/api?username=himanshisharmaa&show_icons=true&theme=r…
+https://github-readme-stats.vercel.app/api?username=giteshdang&show_icons=true&theme=r…
  
 ---
