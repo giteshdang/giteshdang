@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/himanshisharmaa" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=wh… alt="LinkedIn"/>
 </a>
-<a href="https://github.com/himanshisharmaa" target="_blank">
+<a href="https://github.com/giteshdang" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=wh…
