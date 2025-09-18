@@ -29,9 +29,13 @@
 - 🌐 API Integration & Data Engineering (REST, Webhooks, n8n)  
 - 🗂️ Cloud & DevOps (AWS, Docker, GitHub Actions, Kubernetes, CI/CD)  
 - 📊 ML Model Deployment & MLOps  
-- ⚡ Full-Stack Development (React, Node.js, Express, PHP, Laravel)  
+- ⚡ Full-Stack Development (React, Node.js, Express, PHP, Laravel, Next.js)  
 - ⛓️ Blockchain & Smart Contracts (Ethereum, Solidity, Web3.js, Hardhat)  
-
+- 📱 Mobile App Development (React Native, Flutter)  
+- 📈 Data Science, Data Visualization & Analytics (Pandas, Matplotlib, Power BI)  
+- 🔒 Cybersecurity & Secure App Development  
+- ☁️ API-driven SaaS & Scalable Cloud Solutions
+  
 ### 💻 Tech Stack
 
 <p align="left">
