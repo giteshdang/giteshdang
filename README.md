@@ -1,6 +1,6 @@
 ## Hi I'm Gitesh Dang
 
-<h3 align="center">A Curious Mind Exploring Computer Vision, LangChain, and LLMs with Python</h3>
+<h3 align="center">A Curious Mind Exploring AI, Full-Stack Development, and Blockchain with Curiosity & Code
 
 ### 🔗 Socials
 
